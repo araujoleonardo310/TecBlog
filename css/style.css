@@ -25,6 +25,46 @@ body {
     padding: 10px;
 }
 
+.area-principal {
+    background: #fff;
+    width: 920px;
+    margin: 0 auto;
+}
+
+.area-postagens, .area-lateral {
+    background: orange;
+}
+
+.area-postagens {
+    width: 660px;
+    float: left;
+}
+
+.area-lateral {
+    width: 240px;
+    float: right;
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #fff;
+}
+
+.rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background-color: #ccc;
+    
+}
+
+.postagem img {
+    width: 620px;
+}
+
+
+
 /*
 ********* FORMATAÇÃO DO MENU *******
 */
@@ -51,6 +91,15 @@ h1 {
     font-size: 2.5em;
 }
 
+h2 {
+    color: #f7b600;
+}
+
 .blog {
     color: #fff;
+}
+
+.data-postagem {
+    font-size: 0.8em;
+    
 }
