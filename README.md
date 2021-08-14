@@ -45,20 +45,20 @@
 <img src="demost/menu-vertical.png" align=center height=150em>
 <br><br>
 
-- Criação conteúdo com imagens
+- Conteúdos com imagens
 
 <img src="demost/conteudos.png">
 
 </div>
 <br>
 
-<h2 id="referencias-creditos">Referências & Créditos</h2><hr><br>
+<h2 id="referencias-creditos">Referências & Créditos</h2><br>
 
 Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos - [Udemy](https://www.udemy.com/share/101WqG2@Pm1KblleTVIHcUZ7EkhN/)
 
 <br>
 
-<h2 id="autor">Autor</h2><hr><br>
+<h2 id="autor">Autor</h2><br>
 
 <p> Meu nome é Leonardo, mas gosto de ser o Leo. Estou me graduando em Sistemas de Informação e meu foco é crescer na carreira de Web Developer (Desenvolvedor Web).</p><br>
 
