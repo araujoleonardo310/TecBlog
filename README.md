@@ -1,4 +1,4 @@
-# Projeto: Algoritmos e Lógica de Programação 👨‍💻💻
+# Projeto: TecBlog 👨‍💻💻
 
 <div align=center>
     <a href="#sobre" align=center>Sobre</a>&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 
 <h2 id="sobre">Sobre</h2><br>
 
-> <p>Este é o terceiro projeto do meu curso <strong>Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos</strong> que, focou-me para ensinar a criação do site TechBlog, um site com jeitinho blog que informa assuntos tecnológicos e eletrônicos aos seus usuários/clientes. </p>
+> <p>Este é o terceiro projeto do meu curso <strong>Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos</strong> que, focou-me para ensinar a criação do site TecBlog, um site com jeitinho blog que informa assuntos tecnológicos e eletrônicos aos seus usuários/clientes. </p>
 
 <br>
 
